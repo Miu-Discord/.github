@@ -22,6 +22,9 @@
 - Basic music and moderation commands.
 Visit [miu.is-a.fun](https://miu.is-a.fun/) to learn more!
 
+## Thanks to 
+[![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://console.hop.io/deploy-button)
+
 ----
 
 <p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
