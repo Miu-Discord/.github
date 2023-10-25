@@ -10,7 +10,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/miu-discord?label=Follow&style=social)](https://github.com/miu-discord)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/WFfjrQxnfH)](https://discord.gg/WFfjrQxnfH)
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://miu.is-a.fun)
-
+<p align="center"> 
+  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
+</p>
 </h3>
 </div>
 
