@@ -25,7 +25,7 @@
 Visit [miu.is-a.fun](https://miu.is-a.fun/) to learn more!
 
 ## Thanks to 
-[![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://console.hop.io/deploy-button)
+[![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://hop.io/r/lrmn/)
 
 ----
 
